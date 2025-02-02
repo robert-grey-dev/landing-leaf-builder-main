@@ -137,8 +137,12 @@ git push origin your-branch-name
 
 ## 📄 License
 
-MIT
+© 2024 All Rights Reserved.
 
-## 👥 Support
+For licensing inquiries and purchases, please contact:
+
+Email: robbygrey1993@gmail.com
+WhatsApp: +16199677793
+👥 Support
 
 For questions or issues, please create an issue in the project repository.
