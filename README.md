@@ -143,6 +143,7 @@ For licensing inquiries and purchases, please contact:
 
 Email: robbygrey1993@gmail.com
 WhatsApp: +16199677793
+
 👥 Support
 
 For questions or issues, please create an issue in the project repository.
